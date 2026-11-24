@@ -1,0 +1,21 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KandaPilouf/books-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KandaPilouf/books-api/issues"
+  },
+  "homepage": "https://github.com/KandaPilouf/books-api#readme"
+}
