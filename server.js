@@ -1,5 +1,5 @@
-import http from "node-http";
-import { books } from "./books";
+import http from "node:http";
+import { books } from "./books.js";
 
 const port = 3000;
 
